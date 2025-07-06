@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.update-calculation-result {
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.calculator-button {
+    padding: 14px 19px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: rgb(51, 51, 51);
+    color: white;
+    font-weight: bold;
+}
+
+.calculator-operator-button {
+    padding: 14px 19px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: rgb(254, 160, 10);
+    color: white;
+    font-weight: bold;
+}
+
+.calculator-clear-button {
+    font-size: 12px;
+    padding: 16px 8px;
+}
+
+.calculator-erase-button {
+    font-size: 12px;
+    padding: 14px 15px;
+}
